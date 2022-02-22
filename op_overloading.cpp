@@ -1,4 +1,5 @@
 //Khushi Mordani
+//Operator overloading is compile time polymorphism
 #include<iostream>
 using namespace std;
 
